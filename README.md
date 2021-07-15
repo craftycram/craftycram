@@ -12,3 +12,5 @@ Not convinced? Take a look at my projects in here or some others that aren't pub
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=craftycram&count_private=true&show_icons=true&theme=dark&include_all_commits" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftycram&theme=dark&layout=compact&langs_count=6" />
 </div>
+
+> *be aware those stats are only valid to my public repositories and slightly different including my private ones*
